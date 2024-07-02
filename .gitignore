@@ -163,5 +163,5 @@ cython_debug/
 
 # Indexing files
 hpo_index/
-ordo_index/
+orpha_index/
 mondo_index/
