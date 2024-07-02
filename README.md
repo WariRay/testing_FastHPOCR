@@ -11,7 +11,7 @@ pip3 install -e fast_hpo_cr/pypi/FastHPOCR
 
 Install the rest of dependencies from requirement.txt.
 ```
-pip install -r requirements.txt 
+pip3 install -r requirements.txt 
 ```
 
 ## Usage
