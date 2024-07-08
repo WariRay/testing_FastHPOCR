@@ -166,5 +166,7 @@ hpo_index/
 orpha_index/
 mondo_index/
 
-# CSVs
+# Data files
 *.csv
+*.xlsx
+*.Identifier
